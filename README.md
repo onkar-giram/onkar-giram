@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onkar Giram</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A full stack web developer</h3>
 
-- 🌱 I’m currently working with **React, Node, Express, MongoDB,**
+- 🌱 I’m currently working with **Next, Node, Express, MongoDB,**
 
 - 💬 Ask me about **react, node**
 
